@@ -1,0 +1,17 @@
+{
+    "name": "albore/vrtick-plugin",
+    "description": "Pierszy plugin w wordpress",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Marek Kwinta",
+            "email": "jan@kowalski.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

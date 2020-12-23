@@ -1,6 +1,6 @@
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- VRTick THE PROJECT -->
 ## About The Project
 
 

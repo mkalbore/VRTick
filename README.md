@@ -7,9 +7,9 @@
 W wielkim skrócie:
 **Plugin ma (dolcelowo) wyświetlać zdjecia z robione w formacie 2:1 (panoramicznie) w formie sfery na stronie internetowej.**
 
-** Wszystkie pliki zawierają komentarze. **
+1# Wszystkie pliki zawierają komentarze. 
 
-** Chciałbym, aby skrypt z pliku .js wywoływał się na stronie a nie jak to jest w chwili obecnej, w Menu Pluginu. **
+2# Chciałbym, aby skrypt z pliku .js wywoływał się na stronie a nie jak to jest w chwili obecnej, w Menu Pluginu. 
 
 
 <!-- Wesołych ŚWIĄT -->

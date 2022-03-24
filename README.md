@@ -5,14 +5,17 @@
 
 
 W wielkim skrócie:
-**Plugin do Wordpressa, który wyświetla zdjecia z robione w formacie 2:1 (panoramicznie) w formie sfery na stronie internetowej.**
 
-** ---- **
+**Plugin do Wordpressa, który wyświetla zdjecia zrobione w formacie 2:1 (panoramicznie), na postać sfery na stronie internetowej.**
 
-1# Wszystkie pliki zawierają komentarze. 
+==================================================================================================
 
-2# Chciałbym, aby skrypt z pliku .js wywoływał się na stronie a nie jak to jest w chwili obecnej, w Menu Pluginu. 
+1# Skrypt z pliku .js wywołuje się na stronie za pomocą hooków. 
+
+2# -----
+
+3#  Wszystkie pliki zawierają komentarze.
 
 
-<!-- Wesołych ŚWIĄT -->
-## Wesołych ŚWIĄT 
+<!-- === -->
+## SU 

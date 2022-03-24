@@ -5,7 +5,9 @@
 
 
 W wielkim skrócie:
-**Plugin ma (dolcelowo) wyświetlać zdjecia z robione w formacie 2:1 (panoramicznie) w formie sfery na stronie internetowej.**
+**Plugin do Wordpressa, który wyświetla zdjecia z robione w formacie 2:1 (panoramicznie) w formie sfery na stronie internetowej.**
+
+** ---- **
 
 1# Wszystkie pliki zawierają komentarze. 
 

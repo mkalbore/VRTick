@@ -16,8 +16,8 @@ W wielkim skrócie:
 
 3#  Wszystkie pliki zawierają komentarze.
 
-
-##ENG 
+## ====================================
+## ENG 
 
 In a nutshell:
 

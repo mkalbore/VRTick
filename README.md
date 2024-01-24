@@ -17,5 +17,19 @@ W wielkim skrócie:
 3#  Wszystkie pliki zawierają komentarze.
 
 
+##ENG 
+
+In a nutshell:
+
+Plugin for Wordpress, which displays images taken in 2:1 format (panoramic), in the form of a sphere on the website.
+
+===================================================================================
+
+1# The script from the . js file is called on the page using hooks.
+
+2# -----
+
+3# All files contain comments.
+
 <!-- === -->
 ## SU 
